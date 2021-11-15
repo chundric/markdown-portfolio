@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+https://github.com/chundric/markdown-portfolio/pull/3#:~:text=for%20images%20below%3A-,!%5BImage%20of%20Yaktocat%5D(https%3A//octodex.github.com/images/yaktocat.png),-%E2%8C%A8%EF%B8%8F%20Activity%3A%20Adding%20an
